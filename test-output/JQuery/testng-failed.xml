@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [JQuery]" parallel="tests">
+  <test thread-count="2" name="Run On FIREFOX(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/"/>
+    <classes>
+      <class name="com.jquery.upload.Level_12b_Upload_File">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_02_Upload_Multiple_File_Per_Time"/>
+          <include name="TC_01_Upload_1_File_Per_Time"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.jquery.upload.Level_12b_Upload_File -->
+    </classes>
+  </test> <!-- Run On FIREFOX(failed) -->
+</suite> <!-- Failed suite [JQuery] -->

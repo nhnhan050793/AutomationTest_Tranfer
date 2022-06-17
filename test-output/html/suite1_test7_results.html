@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - Run On CHROME</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Run On CHROME</h1>
+<p>
+  Test duration: 27,937s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.bankguru.user.Level_15_Log_Report_HTML</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  TC_02_Login_To_System
+      </td>
+  <td class="duration">
+    13,771s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        2020-10-19 23:42:51,558 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 01: get login Page<br/>
+<br />
+                                2020-10-19 23:42:53,053 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 02: Verify Login form displayed<br/>
+<br />
+                                2020-10-19 23:42:53,090 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 03: input username textbox with value: mngr291101<br/>
+<br />
+                                2020-10-19 23:42:53,335 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 04: input password textbox with value: umumerU<br/>
+<br />
+                                2020-10-19 23:42:53,553 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 05: click to login button<br/>
+<br />
+                                2020-10-19 23:42:55,124 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 06: Verify welcome message displayed<br/>
+<br />
+                                2020-10-19 23:42:55,190 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Login - step 07: Verify login form undisplayed<br/>
+<br />
+                                2020-10-19 23:43:05,321 INFO&nbsp; pageObjects.bankGuru.MainPageObject - Element not in DOM<br/>
+<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: expected [Welcome To Manager&apos;s Page of Guru99 Bank.] but found [Welcome To Manager&apos;s Page of Guru99 Bank]</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              org.testng.Assert.fail(Assert.java:96)<br />
+              org.testng.Assert.failNotEquals(Assert.java:776)<br />
+              org.testng.Assert.assertEqualsImpl(Assert.java:137)<br />
+              org.testng.Assert.assertEquals(Assert.java:118)<br />
+              org.testng.Assert.assertEquals(Assert.java:442)<br />
+              commons.AbstractTest.checkEquals(AbstractTest.java:171)<br />
+              commons.AbstractTest.verifyEquals(AbstractTest.java:181)<br />
+              com.bankguru.user.Level_15_Log_Report_HTML.TC_02_Login_To_System(Level_15_Log_Report_HTML.java:131)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)<br />
+              java.lang.reflect.Method.invoke(Unknown Source)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:583)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:648)<br />
+              org.testng.TestRunner.run(TestRunner.java:505)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:455)<br />
+              org.testng.SuiteRunner.access$000(SuiteRunner.java:40)<br />
+              org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)<br />
+              org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)<br />
+              java.util.concurrent.FutureTask.run(Unknown Source)<br />
+              java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)<br />
+              java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)<br />
+              java.lang.Thread.run(Unknown Source)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.bankguru.user.Level_15_Log_Report_HTML</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  TC_01_Register_To_System
+      </td>
+  <td class="duration">
+    4,141s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        2020-10-19 23:42:47,467 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Register - step 01: get login Page Url<br/>
+<br />
+                                2020-10-19 23:42:47,475 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Register - step 02: click to &apos;here&apos; link<br/>
+<br />
+                                2020-10-19 23:42:49,813 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Register - step 03: Input to &apos;Email&apos; textbox with value: autofc7060@hotmail.com<br/>
+<br />
+                                2020-10-19 23:42:50,067 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Register - step 04: click to &apos;Submit&apos; button<br/>
+<br />
+                                2020-10-19 23:42:51,363 INFO&nbsp; com.bankguru.user.Level_15_Log_Report_HTML - Register - step 05: Get userID/ Password information<br/>
+<br />
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

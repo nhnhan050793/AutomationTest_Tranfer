@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On FIREFOX"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.102">
+  <properties />
+  
+  
+            <testcase name="TC_04_Delete_Account" time="0.023" classname="com.bankguru.user.Level_16_Share_Class_State_02" />
+                <testcase name="TC_03_Edit_Account" time="0.043" classname="com.bankguru.user.Level_16_Share_Class_State_02" />
+                <testcase name="TC_02_View_Account" time="0.023" classname="com.bankguru.user.Level_16_Share_Class_State_02" />
+                <testcase name="TC_01_Create_New_Account" time="0.013" classname="com.bankguru.user.Level_16_Share_Class_State_02" />
+      
+</testsuite>

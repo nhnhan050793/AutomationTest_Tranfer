@@ -1,0 +1,19 @@
+1634811825133	geckodriver	INFO	Listening on 127.0.0.1:61448
+1634811832650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56874" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNNBsss"
+1634811833742	Marionette	INFO	Marionette enabled
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:27:11
+isBrowserPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:47:19
+loadURI@resource://gre/modules/RemoteWebNavigation.jsm:90:51
+loadURI/<@chrome://global/content/elements/browser-custom-element.js:809:28
+_wrapURIChangeCall@chrome://global/content/elements/browser-custom-element.js:738:9
+loadURI@chrome://global/content/elements/browser-custom-element.js:808:12
+loadURI@chrome://mozapps/content/extensions/aboutaddons.js:2508:18
+render/<@chrome://mozapps/content/extensions/aboutaddons.js:2487:14
+render@chrome://mozapps/content/extensions/aboutaddons.js:2446:11
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator_Nhan\\AppData\\Local\\Temp\\rust_mozprofileNNBsss\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56874/devtools/browser/f6a40097-9d7c-4f1d-83bb-e2d3e2973f75
+1634811837488	Marionette	INFO	Listening on port 62085
+1634811837586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634811871517	Marionette	INFO	Stopped listening on port 62085
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

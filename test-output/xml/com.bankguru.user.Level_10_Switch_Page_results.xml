@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On FIREFOX"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="91.886">
+  <properties />
+  
+  
+            <testcase name="TC_01_Register_To_System" time="24.584" classname="com.bankguru.user.Level_10_Switch_Page" />
+                <testcase name="TC_03_Navigate_To_Other_Page" time="36.085" classname="com.bankguru.user.Level_10_Switch_Page" />
+                <testcase name="TC_02_Login_To_System" time="19.562" classname="com.bankguru.user.Level_10_Switch_Page" />
+                <testcase name="TC_04_Logout" time="11.655" classname="com.bankguru.user.Level_10_Switch_Page" />
+      
+</testsuite>

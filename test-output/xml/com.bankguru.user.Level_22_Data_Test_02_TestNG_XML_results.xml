@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On FIREFOX"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27,188">
+  <properties />
+  
+  
+            <testcase name="TC_02_Login_To_System" time="13,712" classname="com.bankguru.user.Level_22_Data_Test_02_TestNG_XML" />
+                <testcase name="TC_03_New_Customer" time="11,749" classname="com.bankguru.user.Level_22_Data_Test_02_TestNG_XML" />
+                <testcase name="TC_01_Register_To_System" time="1,727" classname="com.bankguru.user.Level_22_Data_Test_02_TestNG_XML" />
+      
+</testsuite>

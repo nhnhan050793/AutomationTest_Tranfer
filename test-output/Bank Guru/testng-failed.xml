@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Bank Guru]">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="reportConfig.ExtentListener"/>
+    <listener class-name="reportConfig.AllureTestListener"/>
+    <listener class-name="retryConfig.RetryListener"/>
+  </listeners>
+  <test thread-count="2" name="Run On FIREFOX(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven">
+        <methods>
+          <include name="TC_02_Login_To_System"/>
+          <include name="TC_03_New_Customer"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bankguru.user.Level_22_Data_Test_04_Data_Driven -->
+    </classes>
+  </test> <!-- Run On FIREFOX(failed) -->
+</suite> <!-- Failed suite [Bank Guru] -->

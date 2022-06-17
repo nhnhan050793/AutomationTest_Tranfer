@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RUN ON EDGE"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="68,617">
+  <properties />
+  
+  
+            <testcase name="TC_01_Register_To_System" time="11,143" classname="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+                <testcase name="TC_03_New_Customer" time="25,369" classname="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+                <testcase name="TC_02_Login_To_System" time="32,105" classname="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+      
+</testsuite>

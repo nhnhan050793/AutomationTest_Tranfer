@@ -1,0 +1,11 @@
+{
+	"fullName": "Joe Biden",
+	"email": "biden",
+	"streetAddress": "693 PO Box",
+	"city": "Hawaii",
+	"phone": "0987458699",
+	"paymentType": {
+		"visa" : "6666666666",
+		"'master" : "44558455"
+	}
+}

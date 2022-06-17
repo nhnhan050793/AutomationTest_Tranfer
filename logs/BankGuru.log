@@ -1,0 +1,1492 @@
+2021-01-17 15:05:15,983 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-17 15:05:55,830 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-17 15:05:55,936 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-17 15:06:01,684 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden4466@icloud.com
+2021-01-17 15:06:12,321 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-17 15:06:17,405 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-17 15:06:26,155 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-17 15:06:36,945 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-17 15:06:37,878 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr304336
+2021-01-17 15:06:42,376 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: peqysAv
+2021-01-17 15:06:46,957 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-17 15:06:51,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-17 15:06:55,484 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-17 15:07:16,313 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-17 15:07:16,354 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-17 15:07:30,146 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-17 15:07:34,861 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-17 15:07:39,487 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden4466@icloud.com
+2021-01-17 15:07:44,482 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-17 15:07:49,086 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-17 15:08:03,820 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-17 15:08:03,822 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-17 15:08:06,870 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-20 21:02:31,363 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 21:03:00,996 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-20 21:03:01,532 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-20 21:03:15,790 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden625@icloud.com
+2021-01-20 21:03:58,654 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='emailid'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-01-20 21:04:47,988 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-20 21:05:04,938 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-20 21:05:06,254 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: null
+2021-01-20 21:05:10,486 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-20 21:05:10,714 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 21:05:10,715 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 21:05:14,996 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-20 21:06:12,526 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 21:10:12,270 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-01-20 21:12:17,728 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-20 21:12:17,772 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-20 21:12:26,449 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden8339@icloud.com
+2021-01-20 21:12:28,351 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-20 21:12:33,195 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-20 21:12:34,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-20 21:12:42,031 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-20 21:12:43,114 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr304892
+2021-01-20 21:12:44,218 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pUsAduq
+2021-01-20 21:12:45,283 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-20 21:12:50,776 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-20 21:12:51,750 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-20 21:13:12,023 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-20 21:13:12,064 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-20 21:13:15,407 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-20 21:13:16,769 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-20 21:13:17,647 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden8339@icloud.com
+2021-01-20 21:13:18,663 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-20 21:13:19,663 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-20 21:13:30,720 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 21:13:30,721 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 21:13:32,936 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-20 21:50:59,195 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-01-20 21:51:58,106 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-20 21:51:58,138 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-20 21:53:46,495 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,497 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,498 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,499 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,500 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,501 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,502 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,503 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,504 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,505 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,505 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,506 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,507 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,508 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:46,508 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:53:48,957 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden308@icloud.com
+2021-01-20 21:54:19,236 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-20 21:54:47,275 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-20 21:54:48,833 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-20 21:54:55,657 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,659 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,660 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,661 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,662 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,663 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:54:55,664 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-20 21:54:55,875 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr304897
+2021-01-20 21:54:56,848 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: bazYqUj
+2021-01-20 21:54:57,713 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-20 21:55:03,690 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-01-20 21:55:03,691 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:55:03,692 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:55:03,692 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-20 21:55:03,693 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-20 21:55:23,980 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-20 21:55:45,553 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-20 21:55:45,610 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-20 21:55:54,242 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-20 21:55:56,279 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-20 21:55:57,417 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden308@icloud.com
+2021-01-20 21:55:58,690 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-20 21:56:00,289 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-20 21:56:11,511 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 21:56:11,512 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 21:56:14,509 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-20 22:00:06,854 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-01-20 22:02:29,090 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-20 22:02:29,932 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-20 22:02:43,863 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden551@icloud.com
+2021-01-20 22:02:46,107 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-20 22:02:55,387 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-20 22:02:59,571 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-20 22:03:16,025 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-20 22:03:18,391 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr304898
+2021-01-20 22:03:21,205 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: esyqUhY
+2021-01-20 22:03:26,179 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-20 22:03:43,469 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-20 22:03:45,434 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-20 22:04:06,148 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-20 22:04:06,189 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-20 22:04:15,433 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-20 22:04:17,089 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-20 22:04:38,567 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden551@icloud.com
+2021-01-20 22:04:39,322 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-20 22:04:40,356 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-20 22:04:50,862 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 22:04:50,863 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 22:04:59,828 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-20 22:07:23,784 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 22:08:08,584 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 22:08:08,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 22:08:08,599 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - 
+2021-01-20 22:10:03,174 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 22:10:26,260 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 22:10:26,264 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 22:10:26,288 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - 
+2021-01-20 22:12:16,564 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 22:12:36,407 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 22:12:36,408 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 22:12:36,410 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - 
+2021-01-20 22:33:15,794 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-20 22:37:11,355 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-20 22:37:11,506 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-20 22:37:20,561 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden4630@icloud.com
+2021-01-20 22:37:30,422 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-20 22:37:35,237 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-20 22:37:42,644 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-20 22:37:50,892 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-20 22:37:51,624 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr304904
+2021-01-20 22:37:55,542 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: YranavA
+2021-01-20 22:37:59,460 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-20 22:38:04,598 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-20 22:38:08,722 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-20 22:38:29,232 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-20 22:38:29,281 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-20 22:38:39,936 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-20 22:38:44,126 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-20 22:38:48,701 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden4630@icloud.com
+2021-01-20 22:38:53,156 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-20 22:38:57,382 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-20 22:39:11,664 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-20 22:39:11,667 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-20 22:39:15,667 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-21 23:47:47,981 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-01-21 23:48:14,502 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-21 23:48:14,534 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-21 23:48:21,742 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden4805@icloud.com
+2021-01-21 23:48:24,080 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-21 23:48:28,121 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-21 23:48:29,145 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-21 23:48:31,090 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-21 23:48:31,205 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305066
+2021-01-21 23:48:32,001 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: EmEnEzy
+2021-01-21 23:48:32,566 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-21 23:48:36,484 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-21 23:48:37,000 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-21 23:48:57,239 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-21 23:48:57,273 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-21 23:48:59,948 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-21 23:49:00,849 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-21 23:49:01,470 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden4805@icloud.com
+2021-01-21 23:49:02,336 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-21 23:49:03,032 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-21 23:49:13,521 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-21 23:49:13,522 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 8.1
+2021-01-21 23:49:15,121 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-21 23:49:43,713 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-21 23:50:02,576 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-21 23:50:02,642 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-21 23:50:07,618 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden2956@icloud.com
+2021-01-21 23:50:13,559 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-21 23:50:17,459 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-21 23:50:22,096 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-21 23:50:26,565 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-21 23:50:27,888 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305067
+2021-01-21 23:50:29,917 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: ytagUhY
+2021-01-21 23:50:31,625 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-21 23:50:35,417 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-21 23:50:38,183 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-21 23:50:58,905 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-21 23:50:58,955 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-21 23:51:04,631 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-21 23:51:06,624 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-21 23:51:08,764 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden2956@icloud.com
+2021-01-21 23:51:10,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-21 23:51:12,860 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-21 23:51:24,739 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-21 23:51:24,741 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 8.1
+2021-01-21 23:51:26,498 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-22 00:21:38,415 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-01-22 00:22:30,114 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-22 00:22:30,138 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-22 00:22:35,532 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,533 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,534 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,534 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,540 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,541 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,544 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,545 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,545 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:35,546 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:22:36,566 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6518@icloud.com
+2021-01-22 00:23:00,808 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-22 00:23:05,246 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-22 00:23:17,290 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-22 00:23:24,024 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,026 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,027 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,028 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,029 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,029 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,030 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:24,031 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-22 00:23:25,045 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305074
+2021-01-22 00:23:26,316 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: daqYrem
+2021-01-22 00:23:27,211 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-22 00:23:48,533 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-01-22 00:23:48,534 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:48,535 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:48,535 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 00:23:48,536 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-22 00:23:48,933 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-22 00:24:09,354 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-22 00:24:09,390 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-22 00:24:53,699 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-22 00:24:55,331 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-22 00:24:56,371 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6518@icloud.com
+2021-01-22 00:24:57,918 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-22 00:24:59,963 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-22 00:25:11,694 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 00:25:11,695 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 8.1
+2021-01-22 00:26:01,171 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-22 20:46:55,984 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-01-22 20:47:36,874 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-22 20:47:36,923 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-22 20:47:44,403 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,405 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,406 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,407 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,408 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,409 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,410 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,411 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,413 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:44,414 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:45,486 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden7959@icloud.com
+2021-01-22 20:47:47,016 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-22 20:47:51,313 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-22 20:47:52,589 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-22 20:47:56,626 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,627 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,628 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,628 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,630 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,631 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,632 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:47:56,632 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-22 20:47:57,379 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305186
+2021-01-22 20:47:58,099 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: YrYvUgY
+2021-01-22 20:47:58,782 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-22 20:48:03,607 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-01-22 20:48:03,608 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:48:03,609 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:48:03,609 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-01-22 20:48:03,610 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-22 20:48:04,438 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-22 20:48:24,654 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-22 20:48:24,689 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-22 20:48:29,734 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-22 20:48:30,828 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-22 20:48:31,419 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden7959@icloud.com
+2021-01-22 20:48:32,113 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-22 20:48:32,726 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-22 20:48:43,415 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 20:48:43,416 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-22 20:48:44,957 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-22 22:38:16,292 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-01-22 22:39:31,307 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-22 22:39:31,335 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-22 22:39:39,731 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden9722@icloud.com
+2021-01-22 22:39:41,235 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-22 22:39:50,477 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-22 22:39:54,035 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-22 22:40:11,998 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-22 22:40:12,789 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305199
+2021-01-22 22:40:14,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: nyzujev
+2021-01-22 22:40:15,573 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-22 22:40:23,935 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-22 22:40:24,933 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-22 22:40:45,200 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-22 22:40:45,241 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-22 22:40:48,146 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-22 22:40:48,862 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-22 22:40:49,496 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden9722@icloud.com
+2021-01-22 22:40:50,068 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-22 22:40:50,628 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-22 22:41:01,371 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 22:41:01,371 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-22 22:41:21,283 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-22 22:43:49,704 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-22 22:44:38,643 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 22:44:38,653 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-22 22:44:38,698 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Unable to get browser
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DELL-PC', ip: '192.168.222.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.edgechromium: false, ie.edgepath: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:21796/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 885bd9ba-61be-4233-8b1f-fc91c13e9b9b
+2021-01-22 22:46:07,395 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-22 22:46:26,170 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 22:46:26,172 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-22 22:46:26,268 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - 
+2021-01-22 22:49:44,110 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openiebrowser and Navigate to app url
+2021-01-22 22:50:18,349 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-22 22:50:18,758 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-22 22:50:29,883 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden2917@icloud.com
+2021-01-22 22:50:54,878 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-22 22:51:02,918 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-22 22:51:23,185 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-22 22:51:41,142 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-22 22:51:46,481 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305201
+2021-01-22 22:51:54,282 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pEsuhyp
+2021-01-22 22:51:59,925 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-22 22:52:05,681 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-22 22:52:13,533 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-22 22:52:34,706 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-22 22:52:34,748 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-22 22:52:53,927 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-22 22:52:59,885 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-22 22:53:05,788 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden2917@icloud.com
+2021-01-22 22:53:12,563 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-22 22:53:19,117 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-22 22:53:36,363 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 22:53:36,364 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-01-22 22:53:40,483 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-01-22 22:55:01,021 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-01-22 22:55:45,210 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-01-22 22:55:45,294 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-01-22 22:55:52,478 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden8722@icloud.com
+2021-01-22 22:55:55,732 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-01-22 22:56:00,572 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-01-22 22:56:02,927 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-01-22 22:56:09,709 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-01-22 22:56:10,912 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305204
+2021-01-22 22:56:13,438 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: tuzEtyq
+2021-01-22 22:56:16,098 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-01-22 22:56:24,637 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-01-22 22:56:30,827 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-01-22 22:56:51,316 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-01-22 22:56:51,410 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-01-22 22:57:00,243 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-01-22 22:57:05,641 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-01-22 22:57:06,837 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden8722@icloud.com
+2021-01-22 22:57:08,379 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-01-22 22:57:09,604 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-01-22 22:57:20,932 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-01-22 22:57:20,933 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-02-07 15:30:52,350 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-02-07 15:31:01,229 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-02-07 15:31:01,238 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-02-07 15:31:03,882 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,882 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,882 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,882 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,883 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,883 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,883 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,884 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,884 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,884 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:03,884 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:04,054 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden372@icloud.com
+2021-02-07 15:31:04,600 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-02-07 15:31:06,124 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-02-07 15:31:06,832 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-02-07 15:31:08,445 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,445 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,446 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,446 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,447 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,448 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:08,449 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-02-07 15:31:08,686 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr307686
+2021-02-07 15:31:08,985 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: YtudYbE
+2021-02-07 15:31:09,309 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-02-07 15:31:11,734 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-02-07 15:31:11,734 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:11,734 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:11,735 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-07 15:31:11,735 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-02-07 15:31:12,107 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-02-07 15:31:32,331 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-02-07 15:31:32,395 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-02-07 15:31:34,445 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-02-07 15:31:34,919 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-02-07 15:31:35,259 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden372@icloud.com
+2021-02-07 15:31:35,641 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-02-07 15:31:35,976 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-02-07 15:31:46,352 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-02-07 15:31:46,353 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-02-07 15:31:47,765 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-02-11 22:33:40,503 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-02-11 22:33:48,456 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-02-11 22:33:48,465 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-02-11 22:33:50,784 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,785 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,785 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,785 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,785 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,785 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,786 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,786 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,786 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,786 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:50,969 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6739@icloud.com
+2021-02-11 22:33:51,390 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-02-11 22:33:53,079 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-02-11 22:33:53,527 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-02-11 22:33:55,639 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,639 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,640 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,640 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,640 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,640 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:55,641 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-02-11 22:33:55,889 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr308359
+2021-02-11 22:33:56,168 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: gEberah
+2021-02-11 22:33:56,436 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-02-11 22:33:58,711 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-02-11 22:33:58,711 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:58,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-02-11 22:33:58,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-02-11 22:33:58,979 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-02-11 22:34:19,138 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-02-11 22:34:19,149 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-02-11 22:34:21,465 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-02-11 22:34:21,823 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-02-11 22:34:22,051 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6739@icloud.com
+2021-02-11 22:34:22,317 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-02-11 22:34:22,556 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-02-11 22:34:32,775 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-02-11 22:34:32,775 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-02-11 22:34:33,595 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 20:28:26,670 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-03-04 20:29:32,982 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 20:29:32,990 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 20:29:36,071 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,071 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,072 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,072 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,072 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,072 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,074 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,074 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,074 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,074 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,074 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:36,152 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden5857@icloud.com
+2021-03-04 20:29:36,406 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 20:29:37,369 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 20:29:37,603 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 20:29:39,252 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,252 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,252 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,253 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,253 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,253 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:39,253 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 20:29:39,310 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312056
+2021-03-04 20:29:39,517 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: huhEtAt
+2021-03-04 20:29:39,713 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 20:29:41,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-03-04 20:29:41,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:41,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:41,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 20:29:41,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 20:29:41,797 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 20:30:01,999 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 20:30:02,009 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 20:30:02,895 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 20:30:03,115 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 20:30:03,315 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden5857@icloud.com
+2021-03-04 20:30:03,554 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 20:30:03,746 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 20:30:13,956 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 20:30:13,956 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-04 20:30:14,861 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 20:30:38,688 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-03-04 20:30:53,977 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 20:30:53,986 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 20:30:57,578 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden5064@icloud.com
+2021-03-04 20:30:57,876 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 20:30:58,930 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 20:30:59,293 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 20:31:01,884 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 20:31:01,944 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312057
+2021-03-04 20:31:02,169 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: asYzudE
+2021-03-04 20:31:02,373 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 20:31:04,277 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 20:31:04,383 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 20:31:24,547 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 20:31:24,556 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 20:31:25,559 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 20:31:25,828 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 20:31:26,052 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden5064@icloud.com
+2021-03-04 20:31:26,328 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 20:31:26,562 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 20:31:36,768 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 20:31:36,769 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-04 20:31:37,697 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 20:31:57,742 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-04 20:32:19,940 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 20:32:19,948 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 20:32:22,816 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden1600@icloud.com
+2021-03-04 20:32:22,964 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 20:32:24,125 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 20:32:24,374 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 20:32:26,264 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 20:32:26,330 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312059
+2021-03-04 20:32:26,476 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pegyrUb
+2021-03-04 20:32:26,598 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 20:32:28,438 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 20:32:28,535 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 20:32:48,655 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 20:32:48,665 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 20:32:49,766 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 20:32:49,929 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 20:32:50,049 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden1600@icloud.com
+2021-03-04 20:32:50,241 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 20:32:50,373 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 20:33:00,514 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 20:33:00,515 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-04 20:33:01,655 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 08:17:48,315 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-03-04 08:18:13,724 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 08:18:13,741 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 08:18:25,610 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden1796@icloud.com
+2021-03-04 08:18:26,523 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 08:18:28,127 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 08:18:28,745 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 08:18:31,808 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 08:18:32,236 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312116
+2021-03-04 08:18:32,630 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: nudEgAn
+2021-03-04 08:18:32,971 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 08:18:34,895 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 08:18:35,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 08:18:55,270 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 08:19:00,295 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 08:19:01,248 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 08:19:01,689 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 08:19:02,012 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden1796@icloud.com
+2021-03-04 08:19:02,404 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 08:19:05,729 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 08:19:16,270 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 08:19:16,271 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-03-04 08:19:17,586 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 08:20:18,740 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-03-04 08:20:46,932 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 08:20:47,002 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 08:20:50,452 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,453 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,454 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,454 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,454 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,454 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,455 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,455 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,455 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:50,456 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:20:55,606 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden2620@icloud.com
+2021-03-04 08:20:56,135 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 08:20:57,848 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 08:20:58,239 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 08:21:00,386 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,387 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,387 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,387 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,388 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,388 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:00,388 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 08:21:00,476 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312119
+2021-03-04 08:21:00,808 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: ubytajA
+2021-03-04 08:21:01,113 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 08:21:04,382 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-03-04 08:21:04,395 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:04,397 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:04,398 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-03-04 08:21:04,399 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 08:21:04,804 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 08:21:24,948 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 08:21:29,984 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 08:21:30,938 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 08:21:31,326 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 08:21:31,647 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden2620@icloud.com
+2021-03-04 08:21:32,042 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 08:21:32,392 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 08:21:42,699 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 08:21:42,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-03-04 08:21:43,128 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-04 08:26:47,004 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-04 08:27:18,389 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-04 08:27:18,421 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-04 08:27:28,459 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6526@icloud.com
+2021-03-04 08:27:28,799 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-04 08:27:30,172 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-04 08:27:30,844 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-04 08:27:33,399 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-04 08:27:34,263 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312125
+2021-03-04 08:27:34,589 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: bYmajEp
+2021-03-04 08:27:34,762 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-04 08:27:36,904 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-04 08:27:37,078 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-04 08:27:57,636 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-04 08:28:02,834 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-04 08:28:05,599 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-04 08:28:05,986 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-04 08:28:06,242 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6526@icloud.com
+2021-03-04 08:28:06,687 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-04 08:28:07,177 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-04 08:28:17,407 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-04 08:28:17,408 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-03-04 08:28:18,591 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-06 16:07:04,071 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-03-06 16:07:15,563 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-06 16:07:15,571 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-06 16:07:18,916 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden8456@icloud.com
+2021-03-06 16:07:19,287 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-06 16:07:20,325 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-06 16:07:20,642 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-06 16:07:22,294 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-06 16:07:22,355 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312401
+2021-03-06 16:07:22,619 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: bubenUg
+2021-03-06 16:07:22,865 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-06 16:07:24,772 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-06 16:07:24,858 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-06 16:07:45,048 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-06 16:07:45,059 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-06 16:07:45,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-06 16:07:45,950 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-06 16:07:46,182 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden8456@icloud.com
+2021-03-06 16:07:46,465 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-06 16:07:46,691 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-06 16:07:56,922 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-06 16:07:56,922 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-06 16:07:57,771 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 00:39:45,210 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-03-07 00:39:52,314 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-07 00:39:52,323 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-07 00:39:54,793 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden3353@icloud.com
+2021-03-07 00:39:55,070 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-07 00:39:56,079 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-07 00:39:56,324 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 00:39:58,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 00:39:58,770 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312455
+2021-03-07 00:39:58,976 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: zegatAj
+2021-03-07 00:39:59,186 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-07 00:40:00,905 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-07 00:40:00,988 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-07 00:40:21,125 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-07 00:40:21,139 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 00:40:21,746 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-07 00:40:21,977 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-07 00:40:22,171 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden3353@icloud.com
+2021-03-07 00:40:22,411 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-07 00:40:22,611 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-07 00:40:32,830 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-07 00:40:32,830 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-07 00:40:33,794 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 00:46:20,954 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Pre-condition - Openedgebrowser and Navigate to app url
+2021-03-07 00:46:29,983 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Register - step 01: get login Page Url
+2021-03-07 00:46:30,047 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Register - step 02: click to 'here' link
+2021-03-07 00:46:32,371 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Register - step 03: Input to 'Email' textbox with value: autofc4589@hotmail.com
+2021-03-07 00:46:32,671 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Register - step 04: click to 'Submit' button
+2021-03-07 00:46:33,750 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Register - step 05: Get userID/ Password information
+2021-03-07 00:46:34,110 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 01: get login Page
+2021-03-07 00:46:35,730 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 02: Verify Login form displayed
+2021-03-07 00:46:35,808 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 03: input username textbox with value: mngr312457
+2021-03-07 00:46:36,013 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 04: input password textbox with value: Ybepany
+2021-03-07 00:46:36,215 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 05: click to login button
+2021-03-07 00:46:38,141 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 06: Verify welcome message displayed
+2021-03-07 00:46:38,267 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Login - step 07: Verify login form undisplayed
+2021-03-07 00:46:58,426 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-07 00:46:58,807 INFO  com.bankguru.user.Level_15_Log_Report_HTML - Post-condition - Close browser
+2021-03-07 00:46:58,809 INFO  com.bankguru.user.Level_15_Log_Report_HTML - OS name = windows 10
+2021-03-07 00:46:59,728 INFO  com.bankguru.user.Level_15_Log_Report_HTML - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 01:16:06,996 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-03-07 01:16:13,381 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-07 01:16:13,389 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-07 01:16:18,034 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden2494@icloud.com
+2021-03-07 01:16:20,379 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-07 01:16:23,806 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-07 01:16:28,249 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 01:16:29,872 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 01:16:29,931 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312463
+2021-03-07 01:16:32,231 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: EpebyjA
+2021-03-07 01:16:34,501 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-03-07 01:16:38,305 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-03-07 01:16:40,480 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-03-07 01:17:00,618 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-07 01:17:00,629 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 01:17:03,339 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-07 01:17:05,631 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-07 01:17:07,906 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden2494@icloud.com
+2021-03-07 01:17:10,198 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-07 01:17:12,466 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-07 01:17:24,763 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-07 01:17:24,764 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-07 01:17:25,626 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 02:03:09,862 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-07 02:03:20,849 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-07 02:03:20,856 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-07 02:03:25,529 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden1025@icloud.com
+2021-03-07 02:03:27,744 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-07 02:03:31,110 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-07 02:03:35,506 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:03:36,743 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:03:36,791 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312472
+2021-03-07 02:03:38,992 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: hYvEben
+2021-03-07 02:03:41,235 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:03:43,066 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:03:43,109 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312472
+2021-03-07 02:03:45,325 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: hYvEben
+2021-03-07 02:03:47,529 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:03:48,855 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:03:48,898 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312472
+2021-03-07 02:03:51,119 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: hYvEben
+2021-03-07 02:03:53,438 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:03:53,447 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:03:53,456 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:03:53,553 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-07 02:03:53,553 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-07 02:03:54,704 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 02:05:19,635 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-07 02:05:30,658 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-07 02:05:30,666 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-07 02:05:34,834 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden7024@icloud.com
+2021-03-07 02:05:37,047 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-07 02:05:40,580 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-07 02:05:44,984 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:05:46,259 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:05:46,308 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312473
+2021-03-07 02:05:48,511 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: mAtubYt
+2021-03-07 02:05:50,708 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:05:52,031 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:05:52,077 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312473
+2021-03-07 02:05:54,287 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: mAtubYt
+2021-03-07 02:05:56,491 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:05:57,795 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:05:57,855 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312473
+2021-03-07 02:06:00,081 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: mAtubYt
+2021-03-07 02:06:02,355 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:06:02,364 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:06:02,375 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:06:02,435 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-07 02:06:02,436 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-07 02:06:03,560 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-07 02:07:50,581 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-07 02:08:01,697 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-07 02:08:01,703 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-07 02:08:06,639 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6716@icloud.com
+2021-03-07 02:08:08,859 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-07 02:08:11,851 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-07 02:08:16,294 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:08:18,324 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:08:18,370 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312474
+2021-03-07 02:08:20,571 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: adajAtY
+2021-03-07 02:08:22,782 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:08:24,158 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:08:24,205 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312474
+2021-03-07 02:08:26,409 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: adajAtY
+2021-03-07 02:08:28,622 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-07 02:08:29,922 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-07 02:08:29,968 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr312474
+2021-03-07 02:08:32,186 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: adajAtY
+2021-03-07 02:08:34,448 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:08:34,457 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:08:34,467 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-03-07 02:08:34,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-03-07 02:08:34,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-03-07 02:08:35,549 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 09:30:41,257 INFO  com.bankguru.user.Level_24_Multiple_environment - Pre-condition - step 02: get login Page Url
+2021-03-19 09:30:41,265 INFO  com.bankguru.user.Level_24_Multiple_environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 09:30:46,686 INFO  com.bankguru.user.Level_24_Multiple_environment - Register - step 01: Input to 'Email' textbox with value: biden916@icloud.com
+2021-03-19 09:30:48,916 INFO  com.bankguru.user.Level_24_Multiple_environment - Register - step 02: click to 'Submit' button
+2021-03-19 09:30:52,741 INFO  com.bankguru.user.Level_24_Multiple_environment - Register - step 03: Get userID/ Password information
+2021-03-19 09:30:57,118 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 01: get login Page
+2021-03-19 09:30:57,844 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:30:57,936 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 03: input username textbox with value: mngr315116
+2021-03-19 09:31:00,148 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 04: input password textbox with value: damysAn
+2021-03-19 09:31:02,369 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 01: get login Page
+2021-03-19 09:31:02,874 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:31:02,936 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 03: input username textbox with value: mngr315116
+2021-03-19 09:31:05,137 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 04: input password textbox with value: damysAn
+2021-03-19 09:31:07,341 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 01: get login Page
+2021-03-19 09:31:08,180 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:31:08,247 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 03: input username textbox with value: mngr315116
+2021-03-19 09:31:10,452 INFO  com.bankguru.user.Level_24_Multiple_environment - Login - step 04: input password textbox with value: damysAn
+2021-03-19 09:31:12,758 INFO  com.bankguru.user.Level_24_Multiple_environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:31:12,770 INFO  com.bankguru.user.Level_24_Multiple_environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:31:12,788 INFO  com.bankguru.user.Level_24_Multiple_environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:31:12,887 INFO  com.bankguru.user.Level_24_Multiple_environment - Post-condition - Close browser
+2021-03-19 09:31:12,887 INFO  com.bankguru.user.Level_24_Multiple_environment - OS name = windows 10
+2021-03-19 09:31:13,930 INFO  com.bankguru.user.Level_24_Multiple_environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 09:38:59,750 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 09:38:59,759 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 09:39:04,430 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden7325@icloud.com
+2021-03-19 09:39:06,657 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 09:39:10,457 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 09:39:14,815 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 09:39:17,214 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:39:17,261 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315117
+2021-03-19 09:39:19,481 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: zUnUjet
+2021-03-19 09:39:21,687 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 09:39:23,203 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:39:23,246 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315117
+2021-03-19 09:39:25,490 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: zUnUjet
+2021-03-19 09:39:27,730 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 09:39:29,614 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:39:29,674 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315117
+2021-03-19 09:39:31,892 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: zUnUjet
+2021-03-19 09:39:34,226 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:39:34,236 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:39:34,244 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:39:34,345 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 09:39:34,345 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 09:39:35,425 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 09:40:21,882 INFO  com.bankguru.user.Level_23_Retry_testcase - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-19 09:40:32,943 INFO  com.bankguru.user.Level_23_Retry_testcase - Pre-condition - step 02: get login Page Url
+2021-03-19 09:40:32,950 INFO  com.bankguru.user.Level_23_Retry_testcase - Pre-condition - step 03: click to 'here' link
+2021-03-19 09:40:38,907 INFO  com.bankguru.user.Level_23_Retry_testcase - Register - step 01: Input to 'Email' textbox with value: biden5317@icloud.com
+2021-03-19 09:40:41,136 INFO  com.bankguru.user.Level_23_Retry_testcase - Register - step 02: click to 'Submit' button
+2021-03-19 09:40:45,087 INFO  com.bankguru.user.Level_23_Retry_testcase - Register - step 03: Get userID/ Password information
+2021-03-19 09:40:49,441 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 01: get login Page
+2021-03-19 09:40:51,905 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 02: Verify Login form displayed
+2021-03-19 09:40:51,951 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 03: input username textbox with value: mngr315119
+2021-03-19 09:40:54,151 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 04: input password textbox with value: etenugU
+2021-03-19 09:40:56,364 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 01: get login Page
+2021-03-19 09:40:57,781 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 02: Verify Login form displayed
+2021-03-19 09:40:57,826 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 03: input username textbox with value: mngr315119
+2021-03-19 09:41:00,052 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 04: input password textbox with value: etenugU
+2021-03-19 09:41:02,260 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 01: get login Page
+2021-03-19 09:41:04,028 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 02: Verify Login form displayed
+2021-03-19 09:41:04,086 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 03: input username textbox with value: mngr315119
+2021-03-19 09:41:06,291 INFO  com.bankguru.user.Level_23_Retry_testcase - Login - step 04: input password textbox with value: etenugU
+2021-03-19 09:41:08,608 INFO  com.bankguru.user.Level_23_Retry_testcase - New Customer - step 01: Open New Customer Page
+2021-03-19 09:41:08,617 INFO  com.bankguru.user.Level_23_Retry_testcase - New Customer - step 01: Open New Customer Page
+2021-03-19 09:41:08,626 INFO  com.bankguru.user.Level_23_Retry_testcase - New Customer - step 01: Open New Customer Page
+2021-03-19 09:41:08,709 INFO  com.bankguru.user.Level_23_Retry_testcase - Post-condition - Close browser
+2021-03-19 09:41:08,709 INFO  com.bankguru.user.Level_23_Retry_testcase - OS name = windows 10
+2021-03-19 09:41:09,760 INFO  com.bankguru.user.Level_23_Retry_testcase - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 09:45:17,539 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-19 09:45:40,026 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 09:45:40,026 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 09:45:40,034 INFO  com.bankguru.user.Level_24_Multiple_Environment - Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DELL-PC', ip: '192.168.222.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210310152336, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 5800, moz:profile: C:\Users\Administrator_Nhan..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 392131be-a937-4406-8c06-8cce187eab0c
+2021-03-19 09:46:28,245 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 09:46:28,253 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 09:46:33,252 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden6785@icloud.com
+2021-03-19 09:46:35,474 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 09:46:39,297 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 09:46:43,671 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 09:46:45,451 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 09:46:45,498 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315120
+2021-03-19 09:46:47,701 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: abugApY
+2021-03-19 09:46:49,908 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 05: click to login button
+2021-03-19 09:46:53,912 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 06: Verify welcome message displayed
+2021-03-19 09:46:56,042 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 07: Verify login form undisplayed
+2021-03-19 09:47:16,143 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-19 09:47:16,153 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 09:47:19,687 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-19 09:47:21,910 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-19 09:47:24,129 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 04: Input to Email Name textbox with value: biden6785@icloud.com
+2021-03-19 09:47:26,382 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-19 09:47:28,570 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-19 09:47:40,772 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 09:47:40,773 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 09:47:41,784 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 21:05:10,696 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-19 21:05:20,992 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-19 21:05:20,999 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-19 21:05:25,907 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden9854@icloud.com
+2021-03-19 21:05:28,122 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-19 21:05:31,680 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-19 21:05:36,049 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-19 21:05:37,773 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-19 21:05:37,820 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr315295
+2021-03-19 21:05:40,155 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-19 21:05:40,180 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-19 21:11:17,666 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-03-19 21:11:28,408 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-03-19 21:11:28,415 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-03-19 21:11:34,589 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden5971@icloud.com
+2021-03-19 21:11:36,864 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-03-19 21:11:40,551 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-03-19 21:11:44,921 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-03-19 21:11:46,978 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-03-19 21:11:47,023 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr315298
+2021-03-19 21:12:59,871 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 21:12:59,881 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 21:13:04,399 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden1972@icloud.com
+2021-03-19 21:13:06,609 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 21:13:09,931 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 21:13:14,334 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 21:13:16,435 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 21:13:16,500 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315300
+2021-03-19 21:13:18,761 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: nUpuvEm
+2021-03-19 21:13:20,966 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 05: click to login button
+2021-03-19 21:13:24,978 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 06: Verify welcome message displayed
+2021-03-19 21:13:27,143 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 07: Verify login form undisplayed
+2021-03-19 21:13:47,261 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-19 21:13:47,270 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 21:13:50,731 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-19 21:13:52,954 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-19 21:13:55,167 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 04: Input to Email Name textbox with value: biden1972@icloud.com
+2021-03-19 21:13:57,433 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-19 21:13:59,628 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-19 21:14:11,831 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 21:14:11,832 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 21:14:12,882 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 22:08:30,094 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 22:08:30,103 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 22:08:34,093 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden9329@icloud.com
+2021-03-19 22:08:36,324 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 22:08:39,592 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 22:08:43,949 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 22:08:45,549 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 22:08:45,597 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315310
+2021-03-19 22:08:47,803 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: myvEtYv
+2021-03-19 22:08:50,010 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 05: click to login button
+2021-03-19 22:08:54,150 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 06: Verify welcome message displayed
+2021-03-19 22:08:56,392 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 07: Verify login form undisplayed
+2021-03-19 22:09:16,492 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-19 22:09:16,504 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 22:09:19,908 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-19 22:09:22,132 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-19 22:09:24,510 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 04: Input to Email Name textbox with value: biden9329@icloud.com
+2021-03-19 22:09:26,849 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-19 22:09:29,056 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-19 22:09:41,265 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 22:09:41,265 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 22:09:42,434 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 22:10:53,948 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 22:10:53,957 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 22:10:58,339 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden4114@icloud.com
+2021-03-19 22:11:00,573 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 22:11:04,440 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 22:11:08,829 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 22:11:10,286 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 22:11:10,333 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315311
+2021-03-19 22:11:12,538 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: UjedYbY
+2021-03-19 22:11:14,762 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 05: click to login button
+2021-03-19 22:11:18,661 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 06: Verify welcome message displayed
+2021-03-19 22:11:20,798 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 07: Verify login form undisplayed
+2021-03-19 22:11:40,900 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-19 22:11:40,911 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 22:11:44,298 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-19 22:11:46,515 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-19 22:11:48,725 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 04: Input to Email Name textbox with value: biden4114@icloud.com
+2021-03-19 22:11:58,571 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-19 22:12:00,829 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-19 22:12:13,044 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 22:12:13,044 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 22:12:14,095 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-19 22:17:51,464 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 02: get login Page Url
+2021-03-19 22:17:51,473 INFO  com.bankguru.user.Level_24_Multiple_Environment - Pre-condition - step 03: click to 'here' link
+2021-03-19 22:17:55,713 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 01: Input to 'Email' textbox with value: biden1014@icloud.com
+2021-03-19 22:17:57,943 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 02: click to 'Submit' button
+2021-03-19 22:18:01,201 INFO  com.bankguru.user.Level_24_Multiple_Environment - Register - step 03: Get userID/ Password information
+2021-03-19 22:18:05,563 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 01: get login Page
+2021-03-19 22:18:07,753 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 02: Verify Login form displayed
+2021-03-19 22:18:07,800 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 03: input username textbox with value: mngr315313
+2021-03-19 22:18:10,000 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 04: input password textbox with value: puzeryg
+2021-03-19 22:18:12,191 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 05: click to login button
+2021-03-19 22:18:16,168 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 06: Verify welcome message displayed
+2021-03-19 22:18:18,311 INFO  com.bankguru.user.Level_24_Multiple_Environment - Login - step 07: Verify login form undisplayed
+2021-03-19 22:18:38,417 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-03-19 22:18:38,429 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 01: Open New Customer Page
+2021-03-19 22:18:41,857 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-03-19 22:18:44,049 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-03-19 22:18:46,267 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 04: Input to Email Name textbox with value: biden1014@icloud.com
+2021-03-19 22:18:48,516 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-03-19 22:18:50,712 INFO  com.bankguru.user.Level_24_Multiple_Environment - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-03-19 22:19:02,904 INFO  com.bankguru.user.Level_24_Multiple_Environment - Post-condition - Close browser
+2021-03-19 22:19:02,904 INFO  com.bankguru.user.Level_24_Multiple_Environment - OS name = windows 10
+2021-03-19 22:19:04,120 INFO  com.bankguru.user.Level_24_Multiple_Environment - ---------- QUIT BROWSER SUCCESS ----------
+2021-03-31 23:59:45,102 INFO  com.bankguru.user.Level_25_Database_Testing - Pre-condition - step 02: get login Page Url
+2021-03-31 23:59:45,113 INFO  com.bankguru.user.Level_25_Database_Testing - Pre-condition - step 03: click to 'here' link
+2021-03-31 23:59:49,943 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden6710@icloud.com
+2021-03-31 23:59:52,161 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 02: click to 'Submit' button
+2021-03-31 23:59:55,603 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 03: Get userID/ Password information
+2021-04-01 00:00:00,210 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 04: Get mobile product number on mobile page UI 
+2021-04-01 00:00:40,272 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //a[@class='product-image'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:01:20,297 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 05: Get mobile product numbe in database
+2021-04-01 00:01:21,599 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden6710@icloud.com
+2021-04-01 00:02:01,638 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='emailid'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:02:41,770 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden6710@icloud.com
+2021-04-01 00:03:21,814 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='emailid'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:04:01,969 INFO  com.bankguru.user.Level_25_Database_Testing - Post-condition - Close browser
+2021-04-01 00:04:01,970 INFO  com.bankguru.user.Level_25_Database_Testing - OS name = windows 10
+2021-04-01 00:04:02,867 INFO  com.bankguru.user.Level_25_Database_Testing - ---------- QUIT BROWSER SUCCESS ----------
+2021-04-01 00:09:35,642 INFO  com.bankguru.user.Level_25_Database_Testing - Pre-condition - step 02: get login Page Url
+2021-04-01 00:09:35,653 INFO  com.bankguru.user.Level_25_Database_Testing - Pre-condition - step 03: click to 'here' link
+2021-04-01 00:09:40,151 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden8186@icloud.com
+2021-04-01 00:09:42,418 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 02: click to 'Submit' button
+2021-04-01 00:09:45,910 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 03: Get userID/ Password information
+2021-04-01 00:09:50,371 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 04: Get mobile product number on mobile page UI 
+2021-04-01 00:10:30,424 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //a[@class='product-image'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:11:10,456 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 05: Get mobile product numbe in database
+2021-04-01 00:11:11,192 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden8186@icloud.com
+2021-04-01 00:11:51,227 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='emailid'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:12:31,270 INFO  com.bankguru.user.Level_25_Database_Testing - Register - step 01: Input to 'Email' textbox with value: biden8186@icloud.com
+2021-04-01 00:13:11,291 INFO  pageObjects.bankGuru.RegisterPageObject - Waiting for element visible with message: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='emailid'] (tried for 40 second(s) with 500 milliseconds interval)
+2021-04-01 00:13:51,397 INFO  com.bankguru.user.Level_25_Database_Testing - Post-condition - Close browser
+2021-04-01 00:13:51,397 INFO  com.bankguru.user.Level_25_Database_Testing - OS name = windows 10
+2021-04-01 00:13:52,178 INFO  com.bankguru.user.Level_25_Database_Testing - ---------- QUIT BROWSER SUCCESS ----------
+2021-04-17 21:02:51,379 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-04-17 21:04:15,419 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-04-17 21:04:15,579 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-04-17 21:04:29,307 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden5904@icloud.com
+2021-04-17 21:04:32,320 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-04-17 21:04:37,950 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-04-17 21:04:49,982 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:04:56,067 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:04:56,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320980
+2021-04-17 21:04:59,337 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: EnYrEna
+2021-04-17 21:05:09,586 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:05:23,464 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:05:23,670 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320980
+2021-04-17 21:05:26,416 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: EnYrEna
+2021-04-17 21:05:34,717 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:05:40,420 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:05:40,573 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320980
+2021-04-17 21:05:43,267 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: EnYrEna
+2021-04-17 21:05:52,256 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:05:52,278 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:05:52,317 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:05:52,631 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-04-17 21:05:52,632 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-04-17 21:05:58,608 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-04-17 21:09:18,983 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-04-17 21:09:55,960 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-04-17 21:09:56,058 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-04-17 21:10:01,658 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,660 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,661 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,662 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,663 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,664 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,664 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,665 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,665 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,667 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:01,668 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:06,917 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden544@icloud.com
+2021-04-17 21:10:10,355 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-04-17 21:10:15,089 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-04-17 21:10:25,874 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:10:34,522 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,526 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,526 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,529 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,535 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,535 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:34,536 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:10:34,644 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320983
+2021-04-17 21:10:38,311 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: zAbynyd
+2021-04-17 21:10:46,521 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:10:49,099 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,100 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,102 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,104 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,107 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,108 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:10:49,108 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:10:49,193 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320983
+2021-04-17 21:10:52,260 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: zAbynyd
+2021-04-17 21:11:00,104 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:11:03,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,707 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,708 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,708 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,708 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,709 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-04-17 21:11:03,709 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:11:03,797 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320983
+2021-04-17 21:11:07,743 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: zAbynyd
+2021-04-17 21:11:22,007 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:11:22,025 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:11:22,049 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:11:23,385 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-04-17 21:11:23,386 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-04-17 21:11:25,102 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-04-17 21:12:42,282 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-04-17 21:13:38,582 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-04-17 21:13:38,712 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-04-17 21:13:55,477 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden1597@icloud.com
+2021-04-17 21:14:03,915 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-04-17 21:14:09,786 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-04-17 21:14:23,689 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:14:25,947 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:14:26,073 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320985
+2021-04-17 21:14:32,293 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: AnEqEgu
+2021-04-17 21:14:40,552 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:14:43,012 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:14:43,159 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320985
+2021-04-17 21:14:49,881 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: AnEqEgu
+2021-04-17 21:14:58,390 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-04-17 21:15:12,608 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-04-17 21:15:12,715 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr320985
+2021-04-17 21:15:17,232 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: AnEqEgu
+2021-04-17 21:15:32,048 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:15:32,206 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:15:32,437 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-04-17 21:15:35,904 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-04-17 21:15:35,906 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = mac os x
+2021-04-17 21:15:38,553 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-05-03 17:44:17,150 INFO  com.bankguru.user.Level_10_Switch_Page - OS name = mac os x
+2021-05-03 17:44:18,621 INFO  com.bankguru.user.Level_10_Switch_Page - ---------- QUIT BROWSER SUCCESS ----------
+2021-05-04 06:47:35,316 INFO  com.bankguru.user.Level_10_Switch_Page - OS name = mac os x
+2021-05-04 06:47:36,721 INFO  com.bankguru.user.Level_10_Switch_Page - ---------- QUIT BROWSER SUCCESS ----------
+2021-10-16 19:45:18,189 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-10-16 19:45:38,098 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-10-16 19:45:38,120 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-10-16 19:45:41,966 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden7410@icloud.com
+2021-10-16 19:45:44,157 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-10-16 19:45:47,266 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-10-16 19:45:51,656 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:45:53,213 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:45:53,250 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359706
+2021-10-16 19:45:55,514 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: sAjutag
+2021-10-16 19:45:57,652 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:45:59,402 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:45:59,443 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359706
+2021-10-16 19:46:01,574 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: sAjutag
+2021-10-16 19:46:03,721 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:46:05,291 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:46:05,327 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359706
+2021-10-16 19:46:07,465 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: sAjutag
+2021-10-16 19:46:09,700 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:46:09,709 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:46:09,724 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:46:09,819 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-10-16 19:46:09,819 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-10-16 19:46:11,047 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-10-16 19:47:08,854 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-10-16 19:47:24,217 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-10-16 19:47:24,225 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-10-16 19:47:28,335 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden9884@icloud.com
+2021-10-16 19:47:30,591 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-10-16 19:47:34,608 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-10-16 19:47:38,979 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:47:40,603 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:47:40,662 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359707
+2021-10-16 19:47:42,948 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: aqutYsY
+2021-10-16 19:47:45,120 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:47:46,691 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:47:46,724 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359707
+2021-10-16 19:47:48,888 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: aqutYsY
+2021-10-16 19:47:51,049 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-16 19:47:52,659 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-16 19:47:52,689 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr359707
+2021-10-16 19:47:54,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: aqutYsY
+2021-10-16 19:47:57,147 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:47:57,154 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:47:57,166 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-16 19:47:57,235 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-10-16 19:47:57,235 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-10-16 19:47:58,357 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-10-21 17:23:35,267 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openfirefoxbrowser and Navigate to app url
+2021-10-21 17:24:00,692 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-10-21 17:24:00,699 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-10-21 17:24:04,657 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden4198@icloud.com
+2021-10-21 17:24:06,850 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-10-21 17:24:10,035 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-10-21 17:24:14,473 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-21 17:24:15,759 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-21 17:24:15,792 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360590
+2021-10-21 17:24:17,907 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: tYtEtEt
+2021-10-21 17:24:20,087 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-21 17:24:21,404 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-21 17:24:21,436 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360590
+2021-10-21 17:24:23,553 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: tYtEtEt
+2021-10-21 17:24:25,701 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-21 17:24:26,971 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-21 17:24:27,018 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360590
+2021-10-21 17:24:29,135 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: tYtEtEt
+2021-10-21 17:24:31,393 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-21 17:24:31,408 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-21 17:24:31,424 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-21 17:24:31,487 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-10-21 17:24:31,487 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-10-21 17:24:32,835 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-10-21 17:27:02,690 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openchromebrowser and Navigate to app url
+2021-10-21 17:27:14,387 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-10-21 17:27:14,405 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-10-21 17:27:18,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,593 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,593 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,594 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,594 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,594 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,595 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,595 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,595 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:18,681 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden861@icloud.com
+2021-10-21 17:27:21,048 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-10-21 17:27:24,287 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-10-21 17:27:28,673 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-21 17:27:29,851 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,853 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,853 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:29,854 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-21 17:27:29,897 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360591
+2021-10-21 17:27:32,160 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pamubUj
+2021-10-21 17:27:34,424 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-10-21 17:27:40,486 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-10-21 17:28:00,650 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-10-21 17:28:00,666 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-21 17:28:03,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-10-21 17:28:05,831 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-10-21 17:28:08,084 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden861@icloud.com
+2021-10-21 17:28:10,414 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-10-21 17:28:12,670 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-10-21 17:28:24,949 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-10-21 17:28:24,949 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-10-21 17:28:26,092 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+2021-10-21 17:29:40,877 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+2021-10-21 17:29:54,894 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+2021-10-21 17:29:55,021 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+2021-10-21 17:30:00,278 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6714@icloud.com
+2021-10-21 17:30:03,492 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+2021-10-21 17:30:07,032 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+2021-10-21 17:30:11,427 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+2021-10-21 17:30:12,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+2021-10-21 17:30:12,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360593
+2021-10-21 17:30:14,875 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: Emanyry
+2021-10-21 17:30:17,136 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+2021-10-21 17:30:20,956 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+2021-10-21 17:30:23,328 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+2021-10-21 17:30:43,516 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+2021-10-21 17:30:43,531 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+2021-10-21 17:30:46,494 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+2021-10-21 17:30:48,801 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+2021-10-21 17:30:51,088 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6714@icloud.com
+2021-10-21 17:30:53,480 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+2021-10-21 17:30:55,811 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+2021-10-21 17:31:10,273 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------

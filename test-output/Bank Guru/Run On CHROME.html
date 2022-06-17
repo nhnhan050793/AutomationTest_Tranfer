@@ -1,0 +1,173 @@
+<html>
+<head>
+<title>TestNG:  Run On CHROME</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Run On CHROME</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Oct 21 17:27:02 ICT 2021</td>
+</tr>
+<tr><td>Total time:</td><td>83 seconds (83474 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_01_Register_To_System()'><b>TC_01_Register_To_System</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-1557534595" onClick='toggleBox("Output-1557534595", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1557534595" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1557534595">
+2021-10-21 17:27:18,681 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden861@icloud.com
+<br/>
+2021-10-21 17:27:21,048 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+<br/>
+2021-10-21 17:27:24,287 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab</td></tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_02_Login_To_System()'><b>TC_02_Login_To_System</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-773518491" onClick='toggleBox("Output-773518491", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-773518491" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-773518491">
+2021-10-21 17:27:28,673 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+<br/>
+2021-10-21 17:27:29,851 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/basic_functions.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,852 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/1.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,853 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/3.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,853 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/images/2.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:29,854 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+<br/>
+2021-10-21 17:27:29,897 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360591
+<br/>
+2021-10-21 17:27:32,160 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pamubUj
+<br/>
+2021-10-21 17:27:34,424 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+<br/>
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/v4/index.php 0:37 Uncaught SyntaxError: missing ) after argument list
+<br/>
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/commonstyle.css - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ----------SEVERE---------- 
+http://demo.guru99.com/scripts/validate_login.js - Failed to load resource: the server responded with a status of 404 (Not Found)
+<br/>
+2021-10-21 17:27:38,333 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+<br/>
+2021-10-21 17:27:40,486 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+<br/>
+2021-10-21 17:28:00,650 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+<br/>
+</div>
+</td>
+<td></td>
+<td>31</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab</td></tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_03_New_Customer()'><b>TC_03_New_Customer</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-1057263702" onClick='toggleBox("Output-1057263702", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1057263702" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1057263702">
+2021-10-21 17:28:00,666 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+<br/>
+2021-10-21 17:28:03,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+<br/>
+2021-10-21 17:28:05,831 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+<br/>
+2021-10-21 17:28:08,084 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden861@icloud.com
+<br/>
+2021-10-21 17:28:10,414 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+<br/>
+2021-10-21 17:28:12,670 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+<br/>
+</div>
+</td>
+<td></td>
+<td>24</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab</td></tr>
+</table><p>
+</body>
+</html>

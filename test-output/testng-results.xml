@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[2021-10-21 17:29:40,877 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:29:54,894 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:29:55,021 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:00,278 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6714@icloud.com
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:03,492 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:07,032 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:11,427 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:12,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:12,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360593
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:14,875 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: Emanyry
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:17,136 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:20,956 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:23,328 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:43,516 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:43,531 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:46,494 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:48,801 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:51,088 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6714@icloud.com
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:53,480 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:30:55,811 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+]]>
+    </line>
+    <line>
+      <![CDATA[2021-10-21 17:31:10,273 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Bank Guru" duration-ms="89466" started-at="2021-10-21T10:29:40Z" finished-at="2021-10-21T10:31:10Z">
+    <groups>
+    </groups>
+    <test name="RUN ON EDGE" duration-ms="89466" started-at="2021-10-21T10:29:40Z" finished-at="2021-10-21T10:31:10Z">
+      <class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab]" name="beforeClass" is-config="true" duration-ms="19158" started-at="2021-10-21T10:29:40Z" finished-at="2021-10-21T10:29:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[2021-10-21 17:29:40,877 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 01: Openedgebrowser and Navigate to app url
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:29:54,894 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 02: get login Page Url
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:29:55,021 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Pre-condition - step 03: click to 'here' link
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_Register_To_System()[pri:0, instance:com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab]" name="TC_01_Register_To_System" duration-ms="11143" started-at="2021-10-21T10:30:00Z" finished-at="2021-10-21T10:30:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2021-10-21 17:30:00,278 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden6714@icloud.com
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:03,492 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:07,032 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Register_To_System -->
+        <test-method status="PASS" signature="TC_02_Login_To_System()[pri:0, instance:com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab]" name="TC_02_Login_To_System" duration-ms="32105" started-at="2021-10-21T10:30:11Z" finished-at="2021-10-21T10:30:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2021-10-21 17:30:11,427 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:12,543 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:12,592 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr360593
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:14,875 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: Emanyry
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:17,136 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:20,956 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:23,328 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:43,516 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_02_Login_To_System -->
+        <test-method status="PASS" signature="TC_03_New_Customer()[pri:0, instance:com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab]" name="TC_03_New_Customer" duration-ms="25369" started-at="2021-10-21T10:30:43Z" finished-at="2021-10-21T10:31:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2021-10-21 17:30:43,531 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:46,494 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:48,801 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:51,088 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden6714@icloud.com
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:53,480 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:30:55,811 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_03_New_Customer -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.user.Level_22_Data_Test_04_Data_Driven@63070bab]" name="afterClass" is-config="true" duration-ms="1380" started-at="2021-10-21T10:31:08Z" finished-at="2021-10-21T10:31:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Post-condition - Close browser
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:31:08,893 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - OS name = windows 10
+]]>
+            </line>
+            <line>
+              <![CDATA[2021-10-21 17:31:10,273 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - ---------- QUIT BROWSER SUCCESS ----------
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.bankguru.user.Level_22_Data_Test_04_Data_Driven -->
+    </test> <!-- RUN ON EDGE -->
+  </suite> <!-- Bank Guru -->
+</testng-results>

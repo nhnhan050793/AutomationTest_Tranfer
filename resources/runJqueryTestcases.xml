@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chạy tuần tự hàng đợi -->
+<!-- <suite name="Bank Guru" parallel="false">  -->
+
+
+<!-- Chạy song song 2 thằng cùng lúc trên 1 máy, thread-count="3" thì 3 cái chạy cùng lúc -->
+<!-- <suite name="JQuery DataTable" parallel="tests" thread-count="2">  -->
+<suite name="JQuery Upload File" parallel="tests" thread-count="2"> 
+
+
+<!-- 	<test name="Run On SAFARI">
+		<parameter name="browser" value="safari" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test> -->
+
+
+
+<!-- 	<test name="HEADLESS EDGE">
+		<parameter name="browser" value="edgeheadless" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test> -->
+
+<!-- 	<test name="Run On HEADLESS CHROME">
+		<parameter name="browser" value="chromeheadless" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test> -->
+
+<!-- 	<test name="Run On HEADLESS FIREFOX">
+		<parameter name="browser" value="firefoxheadless" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test> -->
+	
+	<test name="RUN ON EDGE">
+		<parameter name="browser" value="edge" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test>
+
+<!-- 	<test name="Run On CHROME">
+		<parameter name="browser" value="chrome" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test>	 -->
+
+<!-- 	<test name="Run On FIREFOX">
+		<parameter name="browser" value="firefox" />
+		<parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/" />
+		<classes>
+			<class name="com.jquery.upload.Level_12b_Upload_File" />
+		</classes>
+	</test> -->
+
+
+</suite>  
+

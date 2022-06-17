@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [JQuery DataTable]" parallel="tests">
+  <test thread-count="2" name="Run On CHROME(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://blueimp.github.io/jQuery-File-Upload/"/>
+    <classes>
+      <class name="com.jquery.upload.Level_12b_Upload_File">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="TC_01_Upload_1_File_Per_Time"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.jquery.upload.Level_12b_Upload_File -->
+    </classes>
+  </test> <!-- Run On CHROME(failed) -->
+</suite> <!-- Failed suite [JQuery DataTable] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On CHROME"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="47.592">
+  <properties />
+  
+  
+            <testcase name="TC_01_Register_To_System" time="5.938" classname="com.bankguru.user.Level_18_Pattern_Object_Dynamic_Element_Component" />
+                <testcase name="TC_03_New_Customer" time="21.108" classname="com.bankguru.user.Level_18_Pattern_Object_Dynamic_Element_Component" />
+                <testcase name="TC_02_Login_To_System" time="20.546" classname="com.bankguru.user.Level_18_Pattern_Object_Dynamic_Element_Component" />
+      
+</testsuite>

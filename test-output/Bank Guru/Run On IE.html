@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>TestNG:  Run On IE</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Run On IE</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jan 22 22:49:43 ICT 2021</td>
+</tr>
+<tr><td>Total time:</td><td>236 seconds (236692 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_01_Register_To_System()'><b>TC_01_Register_To_System</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-581383895" onClick='toggleBox("Output-581383895", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-581383895" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-581383895">
+2021-01-22 22:50:29,883 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 01: Input to 'Email' textbox with value: biden2917@icloud.com
+<br/>
+2021-01-22 22:50:54,878 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 02: click to 'Submit' button
+<br/>
+2021-01-22 22:51:02,918 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Register - step 03: Get userID/ Password information
+<br/>
+</div>
+</td>
+<td></td>
+<td>53</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@4c5474f5</td></tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_02_Login_To_System()'><b>TC_02_Login_To_System</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-1000631907" onClick='toggleBox("Output-1000631907", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1000631907" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1000631907">
+2021-01-22 22:51:23,185 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 01: get login Page
+<br/>
+2021-01-22 22:51:41,142 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 02: Verify Login form displayed
+<br/>
+2021-01-22 22:51:46,481 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 03: input username textbox with value: mngr305201
+<br/>
+2021-01-22 22:51:54,282 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 04: input password textbox with value: pEsuhyp
+<br/>
+2021-01-22 22:51:59,925 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 05: click to login button
+<br/>
+2021-01-22 22:52:05,681 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 06: Verify welcome message displayed
+<br/>
+2021-01-22 22:52:13,533 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - Login - step 07: Verify login form undisplayed
+<br/>
+2021-01-22 22:52:34,706 INFO  pageObjects.bankGuru.MainPageObject - Element not in DOM
+<br/>
+</div>
+</td>
+<td></td>
+<td>71</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@4c5474f5</td></tr>
+<tr>
+<td title='com.bankguru.user.Level_22_Data_Test_04_Data_Driven.TC_03_New_Customer()'><b>TC_03_New_Customer</b><br>Test class: com.bankguru.user.Level_22_Data_Test_04_Data_Driven<br/>
+<a href="#Output-1349129074" onClick='toggleBox("Output-1349129074", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1349129074" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1349129074">
+2021-01-22 22:52:34,748 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 01: Open New Customer Page
+<br/>
+2021-01-22 22:52:53,927 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 02: Input to Fullname textbox with value: Joe Biden
+<br/>
+2021-01-22 22:52:59,885 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 03: Input to Street  textbox with value: 693 PO Box
+<br/>
+2021-01-22 22:53:05,788 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 04: Input to Email Name textbox with value: biden2917@icloud.com
+<br/>
+2021-01-22 22:53:12,563 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 05: Input to Phone textbox with value: 0987458699
+<br/>
+2021-01-22 22:53:19,117 INFO  com.bankguru.user.Level_22_Data_Test_04_Data_Driven - New Customer - step 06: Input to City textbox with value: Hawaii
+<br/>
+</div>
+</td>
+<td></td>
+<td>61</td>
+<td>com.bankguru.user.Level_22_Data_Test_04_Data_Driven@4c5474f5</td></tr>
+</table><p>
+</body>
+</html>

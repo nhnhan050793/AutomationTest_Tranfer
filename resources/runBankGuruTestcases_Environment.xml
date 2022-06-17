@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chạy tuần tự hàng đợi -->
+<!-- <suite name="Bank Guru" parallel="false"> -->
+
+<!-- Chạy song song 2 thằng cùng lúc trên 1 máy, thread-count="3" thì 3 cái 
+	chạy cùng lúc -->
+<suite name="Bank Guru" parallel="false" thread-count="2">
+	<parameter name="environment" value="staging" /> 
+
+	<listeners>
+		<!-- MethodListener -->
+		<listener class-name="commons.MethodListener" />
+		
+		<!-- Testng Report -->
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		
+		<!-- Jenkins Report -->
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		
+		<!-- ExtentReport V2 -->
+		<!-- <listener class-name="reportConfig.ExtentReportListener" /> -->
+		
+		<!-- ExtentReport V3 -->
+		<!-- <listener class-name="reportConfig.ExtentTestListener" /> -->
+		
+		<!-- ExtentReport V4 -->
+		<listener class-name="reportConfig.ExtentListener" />
+		
+		<!-- Allure Report -->
+		<listener class-name="reportConfig.AllureTestListener" />
+		
+		<!-- retry testcase fail -->
+		<listener class-name="retryConfig.RetryListener" />
+		
+	</listeners>
+	
+<!-- 	<test name="Run On IE">
+		<parameter name="browser" value="ie" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test> -->
+
+<!--  	<test name="Run On SAFARI">
+		<parameter name="browser" value="safari" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test> -->
+
+<!-- 	<test name="RUN ON EDGE">
+		<parameter name="browser" value="edge" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test> -->
+
+<!-- 	<test name="HEADLESS EDGE">
+		<parameter name="browser" value="edgeheadless" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test>  -->
+	
+<!--  	<test name="Run On HEADLESS CHROME">
+		<parameter name="browser" value="chromeheadless" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test> -->
+
+<!-- 	<test name="Run On HEADLESS FIREFOX">
+		<parameter name="browser" value="firefoxheadless" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test>  -->
+
+<!-- 	<test name="Run On CHROME">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.bankguru.user.Level_22_Data_Test_04_Data_Driven" />
+		</classes>
+	</test> -->
+	
+	<test name="Run On FIREFOX">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.bankguru.user.Level_25_Database_Testing" />
+		</classes>
+	</test>
+	
+</suite>  
+
